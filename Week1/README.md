@@ -1,2 +1,5 @@
-# Mehmet-Sevim
-Mehmet Sevim - FMSS Bilişim Android Kotlin Repository
+# ZarOyunu
+Fmss Bootcamp Zar Oyunu
+Buttona tıklayınca rastgele zar atan uygulama
+![Giriş Ekranı](https://github.com/FMSSBilisimAndroid/MehmetSevim/ZarOyunu/blob/master/app/src/main/res/drawable/girisekrani.png?raw=true)
+![Zar](https://github.com/FMSSBilisimAndroid/MehmetSevim/ZarOyunu/blob/master/app/src/main/res/drawable/Zar.png?raw=true)
