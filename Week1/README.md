@@ -11,4 +11,4 @@ Namespace neden önemlidir? Her sorun gibi, namespace kavramı da bir ihtiyaçta
 
 Buttona tıklayınca rastgele zar atan uygulama
 ![Giriş Ekranı](https://github.com/FMSSBilisimAndroid/Mehmet-Sevim/blob/main/Week1/app/src/main/res/drawable/girisekrani.png?raw=true)
-![Zar](https://github.com/FMSSBilisimAndroid/Mehmet-Sevim/blob/main/Week1/app/src/main/res/drawable/Zar.png?raw=true)
+![Zar](https://github.com/FMSSBilisimAndroid/Mehmet-Sevim/blob/main/Week1/app/src/main/res/drawable/zar.png?raw=true)
